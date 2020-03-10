@@ -1,8 +1,8 @@
-# Data Carpentry Workshop at Smithsonian Marine Station
+# Data Carpentry Workshop at Museum Support Center
 
-Course website: https://smithsonianworkshops.github.io/2020-03-04-sms
+Course website: https://smithsonianworkshops.github.io/2020-03-11-msc
 
-EtherPad: https://pad.carpentries.org/2020-03-04-sms
+EtherPad: https://pad.carpentries.org/2020-03-11-msc
 
 [Keeping in touch](keep_in_touch.md)
 
