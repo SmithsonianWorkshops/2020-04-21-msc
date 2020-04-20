@@ -7,12 +7,23 @@ Ecology workshops
 {% if site.curriculum == "dc-ecology" %}
 
 {% if site.flavor == "r" %}
-<p>
-  <h3>Required software</h3> You will need a spreadsheet application, OpenRefine, RStudio and SQLite Browser.
-With RStudio, you will also need the R package <code>tidyverse</code>.
-  Instructions for installing these programs and R packages are available at
-  <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html"> the workshop overview site</a>.
-</p>
+
+  <h3>Required software</h3> 
+  <p>For this workshop, we will be using R (the programming language) and RStudio 
+    (special software to write R code). <strong>It is important that you have R and RStudio installed 
+    on your computer prior to the start of the workshop.</strong> Installation instructions are available 
+    here under the R and RStudio header: 
+    <a href='https://datacarpentry.org/ecology-workshop/setup-r-workshop.html'>https://datacarpentry.org/ecology-workshop/setup-r-workshop.html</a>.
+    Please follow the "If you don’t have R and RStudio installed" section for your operating system. 
+    We will take care of all other setup (downloading data, installing specific R packages) during 
+    the workshop.</p>
+  <p>You do not need to install spreadsheet software, OpenRefine, or SQL - we will not be covering 
+    those programs in this workshop.</p>
+  <p>This workshop will be conducted entirely in RStudio, so it is important that you have it 
+    installed properly. <strong>If you encounter errors during installation, please contact us so we 
+    can help you troubleshoot or provide you alternative solutions.</strong></p>
+   
+
 
 {% elsif site.flavor == "python" %}
 <p>
